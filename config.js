@@ -24,7 +24,7 @@ GITHUB_USERNAME = envv2.GITHUB_USERNAME
 }
 
 
-if(process.env.SESSION_ID){
+if(process.env.SESSION_ID){𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=Syg0CSZC#2oO_qEvscy-KS8s-2LLhrnYMKRAF7FJGW5gHU_YXsuY
 SESSION_ID = process.env.SESSION_ID
 } else {
 SESSION_ID = envv2.SESSION_ID
@@ -34,5 +34,5 @@ module.exports = {
 SESSION_ID,
 GITHUB_USERNAME,
 GITHUB_AUTH_TOKEN,
-MONGODB: process.env.MONGODB || "mongodb+srv://myrender971:iwS8N2qB3Q8wMw83@cluster0.he9fd.mongodb.net/"    
+MONGODB: process.env.MONGODB |𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=Syg0CSZC#2oO_qEvscy-KS8s-2LLhrnYMKRAF7FJGW5gHU_YXsuY| "mongodb+srv://myrender971:iwS8N2qB3Q8wMw83@cluster0.he9fd.mongodb.net/"    
 };
